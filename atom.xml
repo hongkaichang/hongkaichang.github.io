@@ -3,11 +3,11 @@
   <title>到此为止了吗のBlog</title>
   
   <subtitle>莫道桑榆晚，为霞尚满天</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://hongkaichang.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://hongkaichang.github.io/"/>
   <updated>2025-09-09T14:12:57.080Z</updated>
-  <id>http://example.com/</id>
+  <id>https://hongkaichang.github.io/</id>
   
   <author>
     <name>chk</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>high gzy welcome to my blog</title>
-    <link href="http://example.com/posts/89359df4.html"/>
-    <id>http://example.com/posts/89359df4.html</id>
+    <link href="https://hongkaichang.github.io/posts/89359df4.html"/>
+    <id>https://hongkaichang.github.io/posts/89359df4.html</id>
     <published>2025-09-08T14:05:38.000Z</published>
     <updated>2025-09-09T14:12:57.080Z</updated>
     
